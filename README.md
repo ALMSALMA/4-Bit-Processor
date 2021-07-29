@@ -1,7 +1,7 @@
 # 4-Bit-Processor
 
 
-a 4-bit Processor with the command set as given below was designed using Logisim.
+a 4-bit Processor with the command set given below was designed using Logisim.
  
  
  
